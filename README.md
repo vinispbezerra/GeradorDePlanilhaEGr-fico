@@ -1,0 +1,1 @@
+Este é um código que através de uma planilha de Excel com nomes e médias, é atribuido um valor de média para as 3 notas, sendo que cada uma delas possui um peso diferente, com essa informação foi gerado outros gráficos e informações utilizando a biblioteca Pandas e Matplotlib
